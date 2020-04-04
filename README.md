@@ -1,0 +1,2 @@
+# Androidcalnde
+check android permsion
